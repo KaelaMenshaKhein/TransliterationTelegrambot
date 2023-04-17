@@ -10,7 +10,6 @@ import java.util.Scanner;
 
 public class Bot extends TelegramLongPollingBot {
     //создаем две константы, присваиваем им значения токена и имя бота соответсвтенно
-    //вместо звездочек подставляйте свои данные
     final private String BOT_TOKEN = "6151067801:AAHvytTg5VYamseNt14sv76NoCKYiP0FbJw";
     final private String BOT_NAME = "Transliter_bot";
     Storage storage;
